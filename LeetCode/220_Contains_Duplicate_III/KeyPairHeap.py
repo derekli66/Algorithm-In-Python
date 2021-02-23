@@ -1,7 +1,6 @@
 import typing
 import pdb
 
-# leave comment for testing!
 
 class KeyPairHeap:
     def __init__(self):
